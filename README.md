@@ -1,7 +1,7 @@
 # 资源下载中心
 
 一个用于下载后端云服务器资源的前端网站。
-
+## 更详细的教程看[这里](https://github.com/StarxSky/GHM/blob/main/READMEEE.md)
 ## 技术栈
 
 - React 19
