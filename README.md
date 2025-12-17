@@ -2,6 +2,7 @@
 
 一个用于下载后端云服务器资源的前端网站。
 ## 更详细的教程看[这里](https://github.com/StarxSky/GHM/blob/main/READMEEE.md)
+## 更新网站的信息？[Look here!!](https://github.com/StarxSky/GHM/blob/main/UPDATE.md)
 ## 技术栈
 
 - React 19
