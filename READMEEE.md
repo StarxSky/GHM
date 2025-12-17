@@ -13,7 +13,7 @@
 
 1. 打开终端，进入项目根目录：
    ```bash
-   cd /Users/starxsky/Downloads/GH
+   cd /Users/starxsky/Downloads/GHM
    ```
 
 2. 安装依赖（如果尚未安装）：
@@ -84,7 +84,7 @@
 
 1. 在本地终端（不要在SSH会话中）执行以下命令，将构建文件上传到服务器：
    ```bash
-   scp -r /Users/starxsky/Downloads/GH/dist/* username@server_ip:/var/www/download-center/
+   scp -r /Users/starxsky/Downloads/GHM/dist/* username@server_ip:/var/www/download-center/
    ```
 
    这会将 `dist` 目录中的所有文件上传到服务器的 `/var/www/download-center/` 目录。
